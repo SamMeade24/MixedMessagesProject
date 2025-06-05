@@ -17,10 +17,13 @@ Each message is composed of 3 randomised elements:
 
 1. Clone the repo
 
-    *git clone https://github.com/SamMeade24/MixedMessagesProject.git*
+    *git clone https://github.com/SamMeade24/MixedMessagesProject.git*  
+
+2. Change the directory
+
     *cd MixedMessagesProject*
 
-2. Run the programme
+3. Run the programme
 
 You must have node.js installed. If you do, then run:
 
