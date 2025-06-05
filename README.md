@@ -17,22 +17,22 @@ Each message is composed of 3 randomised elements:
 
 1. Clone the repo
 
-git clone https://github.com/SamMeade24/MixedMessagesProject.git
-cd MixedMessagesProject
+    *git clone https://github.com/SamMeade24/MixedMessagesProject.git*
+    *cd MixedMessagesProject*
 
 2. Run the programme
 
 You must have node.js installed. If you do, then run:
 
-node index.js
+    *node index.js*
 
 Each time you run it, a new fortune will appear. 
 
 ## Project Structure
 
 MixedMessagesProject
-* index.js      # Main script
-* README.md     # Project Documentation
+* index.js - Main script
+* README.md - Project Documentation
 
 ## Tech Stack
 * JavaScript (ES6+)
